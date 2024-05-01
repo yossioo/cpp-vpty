@@ -1,2 +1,1 @@
-# cpp-vpty
-Virtual PTY C++ Wrapper
+# Virtual PTY C++ Wrapper
